@@ -22,5 +22,6 @@ Littlest Pet Shop is a game developed by Electronic Arts in 2008, based on the t
 - The utility may work unstable, I apologize!!!
 
 # Example
-![lps 2025-12-14 22-08-03-434](https://github.com/user-attachments/assets/b7aff608-ec06-4e4f-a147-99465c5ae2cb)
+![example](https://github.com/user-attachments/assets/10f913fc-bc70-427e-994b-78e5cb1f4400)
+
 
