@@ -1,5 +1,9 @@
 # LittlestPetShopModTool
-Littlest Pet Shop Mod Tool is a utility for modifying .str game files for Littlest Pet Shop.
+Utility for editing .str files for Littlest Pet Shop.
+
+Littlest Pet Shop is a game developed by Electronic Arts in 2008, based on the toy series.
+
+.STR file - a proprietary file that acts as a game archive, it stores textures, models, and other data necessary for the game and used in the game Littlest Pet Shop
 
 # Support Games:
 - Littlest Pet Shop
